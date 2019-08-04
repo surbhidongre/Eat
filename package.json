@@ -1,0 +1,45 @@
+{
+  "name": "finaleatsolution",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@devexpress/dx-react-grid-bootstrap4": "^2.0.2",
+    "@progress/kendo-dateinputs-react-wrapper": "^2019.2.606",
+    "@progress/kendo-react-dateinputs": "^3.2.2",
+    "@progress/kendo-react-dropdowns": "^3.2.2",
+    "@progress/kendo-react-intl": "^3.2.2",
+    "@progress/kendo-theme-default": "^4.1.0",
+    "@progress/kendo-theme-material": "^3.1.0",
+    "@progress/kendo-ui": "^2019.2.801",
+    "bootstrap": "^3.4.1",
+    "devextreme": "^19.1.5",
+    "devextreme-react": "^19.1.5",
+    "kendo-ui-react-jquery-datetimepicker": "^1.0.2",
+    "moment": "^2.24.0",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.10",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
